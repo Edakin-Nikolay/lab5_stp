@@ -5,7 +5,7 @@ public class Cube extends Body{
     private double lengh_diag; // диагональ куба
     
   public  Cube(int id1, int x1, String name1){
-        id = id1; hight=x1; lenght = 0; name = name1;
+        id = id1; hight=x1; name = name1;
         this.sum = sum;
         this.lengh_diag = lengh_diag;
         this.volume = Double.valueOf(hight*hight*hight);

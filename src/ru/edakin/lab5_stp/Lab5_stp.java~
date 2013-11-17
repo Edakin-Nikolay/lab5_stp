@@ -14,7 +14,7 @@ import static ru.edakin.lab5_stp.Lab5_stp.baze;
 import static ru.edakin.lab5_stp.Lab5_stp.key;
 import static ru.edakin.lab5_stp.Lab5_stp.test;
 
-public class Lab4_stp {
+public class Lab5_stp {
     public static int key = -1;
     public static Body test = null;
     public static List<Body> baze = new ArrayList();

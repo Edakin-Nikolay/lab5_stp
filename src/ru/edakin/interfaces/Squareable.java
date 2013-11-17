@@ -9,4 +9,5 @@ package ru.edakin.interfaces;
  */
 public interface Squareable {
     double square ();
+//17.11.2013 23:43:05
 }

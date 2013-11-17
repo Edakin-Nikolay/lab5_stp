@@ -1,3 +1,4 @@
+//06.11.2013 02:22:14
 package ru.edakin.objects;
 
 public class Cube extends Body{
